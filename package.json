@@ -23,11 +23,14 @@
     "@babel/core": "^7.19.1",
     "@babel/preset-env": "^7.19.1",
     "babel-jest": "^29.0.3",
+    "babel-loader": "^8.2.5",
     "eslint": "^8.23.1",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
     "jest": "^29.0.3",
     "live-server": "^1.2.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
@@ -412,7 +415,6 @@
     "vary": "^1.1.2",
     "watchpack": "^2.4.0",
     "wbuf": "^1.7.3",
-    "webpack": "^5.74.0",
     "webpack-dev-middleware": "^5.3.3",
     "webpack-sources": "^3.2.3",
     "websocket-driver": "^0.7.4",
